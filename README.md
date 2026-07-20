@@ -21,3 +21,6 @@ Production validation:
 npm run typecheck
 npm run build
 ```
+
+The Cloudflare Worker is named `panditprinting`. The checked-in Wrangler and
+OpenNext configuration keeps the Worker self-reference on that same name.
